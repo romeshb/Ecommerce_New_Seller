@@ -1,4 +1,4 @@
-# Ecommerce_New_Seller_Problem
+# Ecommerce New Seller
 Problem Statement: Our Client wants to start selling products on Wish.com, An ECommerce Platform starting this Summer. As a Data Scientist I am required to help the client with key insights from the data.
 
 - Derived Ingsights from scrapped website data, built a predictive model to help a retail ecommerce shopper on wish.com
